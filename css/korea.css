@@ -1,0 +1,51 @@
+/* =====begin KOREA==== */
+.main-south_korea{
+    /* border: 1px solid yellow; */
+    width: 100%;
+    color: #fff;
+}
+.south_korea-txt h2{
+    color: green;
+    margin-left: 5%;
+}
+.korea_gallery{
+    /* height: 100vh; */
+}
+.gallery_area{
+    width: 100%;
+    margin: auto;
+    /* border: 1px solid pink; */
+    display: flex;
+}
+.gallery_colums{
+    /* border: 1px solid red;  */
+    /* margin-top: 5px; */
+}
+.column_1{
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+.column_1 img{
+    margin: 5px;
+    border: 2px solid grey;
+}
+.column_2{
+    width: 65%;
+}
+.column_2_colums{
+    margin: 5px;
+}
+.big_img{
+    border: 2px solid grey;
+}
+.first_img{
+    border: 2px solid grey;
+}
+.second_img{
+    margin-left: 5px;
+    border: 2px solid grey;
+}
+
+/* =====end KOREA==== */
